@@ -53,8 +53,8 @@ Let's create a simple project that loads a html file using `Web` component and d
 > ![initialize|236x177](graphics/exmple-blocks/initialize.png)
 
 ### :file_folder: Project Files
-- AIA File: [ObservableSampleSimple.aia|attachment](example/ObservableSampleSimple.aia)
-- Advance Usage Sample: [ObservableSampleAdvance.aia|attachment](example/ObservableSampleAdvance.aia)
+- AIA File: [ObservableSampleSimple.aia](example/ObservableSampleSimple.aia)
+- Advance Usage Sample: [ObservableSampleAdvance.aia](example/ObservableSampleAdvance.aia)
 ---
 
 ## Download Extension
